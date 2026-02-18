@@ -5,6 +5,7 @@
   "description": "An intelligent, mood-based recommendation system for movies, books, and anime.",
   "author": "AI Recommender Team",
   "type": "module",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
